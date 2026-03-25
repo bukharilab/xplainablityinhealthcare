@@ -1,5 +1,5 @@
 
-# 🧬 Accelerating Medical Knowledge Discovery through Automated Knowledge Graph Generation and Enrichment (M-KGA)
+# 🧬 MediLoom: Accelerating Medical Knowledge Discovery through Automated Knowledge Graph Generation and Enrichment 
 
 ## 📌 Overview
 Knowledge Graphs (KGs) are essential for structuring and organizing biomedical knowledge, yet challenges remain in automating their construction and ensuring completeness. Existing approaches often result in fragmented graphs with missing semantic connections.
